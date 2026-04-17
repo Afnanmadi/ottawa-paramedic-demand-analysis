@@ -37,18 +37,17 @@ This project analyzes daily paramedic service demand in Ottawa from 2021 to 2023
 ## 📊 Dashboard Pages
 
 ### 🔹 1. Overview of Paramedic Demand
-![Overview Dashboard](images/Screenshot 2026-04-17 162610.png)
+![Overview Dashboard](overview.png)
 
 ---
 
 ### 🔹 2. When Does Paramedic Demand Peak?
-![Demand Patterns Dashboard](Screenshot 2026-04-17 162714.png)
+![Demand Patterns Dashboard](demand.png)
 
 ---
 
 ### 🔹 3. Demand Is Growing — But Growth Is Slowing Down
-ottawa-paramedic-demand-analysis/Screenshot 2026-04-17 162732.png
-
+![Trend Story Dashboard](trend.png)
 ---
 
 ## 💡 Business Value
