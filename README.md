@@ -47,7 +47,7 @@ This project analyzes daily paramedic service demand in Ottawa from 2021 to 2023
 ---
 
 ### 🔹 3. Demand Is Growing — But Growth Is Slowing Down
-![Trend Story Dashboard](images/Screenshot 2026-04-17 162732.png)
+Screenshot 2026-04-17 162732.png
 
 ---
 
