@@ -58,11 +58,23 @@ This dashboard provides insights that can help:
 
 ---
 
-## 📁 Files Included
-- 📊 `Ottawa_Paramedic_Demand_Analysis.pbix` — Power BI dashboard  
-- 📄 `Ottawa_Paramedic_Service_daily_response_volume.csv` — dataset  
-- 🖼️ `images/` — dashboard screenshots  
+## 📁 Project Structure
 
+This repository includes the following files:
+
+- 📊 **Power BI Dashboard**  
+  `Ottawa Paramedic Service daily response.pbix`  
+  → Interactive dashboard with insights and visualizations  
+
+- 📄 **Dataset**  
+  `Ottawa_Paramedic_Service_daily_response_volume.csv`  
+  → Raw data used for analysis  
+
+- 🖼️ **Dashboard Screenshots**  
+  `overview.png`  
+  `demand.png`  
+  `trend.png`  
+  → Visual previews of each dashboard page 
 ---
 
 ## 👩‍💻 About Me
