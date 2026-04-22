@@ -13,14 +13,6 @@ This project analyzes daily paramedic service demand in Ottawa from 2021 to 2023
 
 ---
 
-## 🎯 Live Dashboard
-
-You can explore the interactive Power BI dashboard using filters and slicers to analyze trends, peak demand periods, and growth patterns.
-
-👉 **[Open Power BI Dashboard](https://app.powerbi.com/links/8-_6_Kg3pt?ctid=5ca4007e-bd93-4a63-99ac-2a7e8b4dfd32&pbi_source=linkShare)**
-
----
-
 ## 🛠️ Tools & Technologies
 - 📊 Power BI  
 - 🧮 DAX  
